@@ -77,6 +77,8 @@ I then combined the single network agent with the pre-filled memory and achieved
 
 In evaluation mode over 10 episodes, this agent was able to achieve an average score of 2.16 with a maximum at 2.7
 
+![success](/images/tennis.gif)
+
 ## 3. Improvement
 
 To accelerate training, we could try to reduce the complexity of the network and see if we could achieve the same performance
